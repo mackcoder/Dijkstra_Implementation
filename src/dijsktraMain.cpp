@@ -13,8 +13,8 @@
  */
 
 // |!| Como compilar: g++ -Wall -o program dijsktraMain.cpp TGrafo_Dijkstra.cpp dijkstra_utils.cpp
-// Executar (cmd): programa.exe
-// Executar (powershell): ./programa.exe
+// Executar (cmd): program.exe
+// Executar (powershell): ./program.exe
 
 #include <stdio.h>
 #include "TGrafo_dijkstra.hpp"
